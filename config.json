@@ -1,10 +1,10 @@
 {
-  "serverName": "Fill server name here",
-  "serverIp": "example.com",
+  "serverName": "Viewers Network",
+  "serverIp": "viewersnetwork.mcsh.io",
   "bedrockPort": 19132,
   "bedrockPlayersCanJoin": true, 
-  "discordLink": "https://discord.gg/S763GafZPR",
-  "logoPath": "logo.jpg",
+  "discordLink": "https://discord.gg/HpVjkKgshs",
+  "logoPath": "file_000000003c14820891ec4822940eca0b.png",
   "defaultColour": "red",
   "_defaultColourHelp": "Choose red, blue, yellow, purple, white, pink, or orange."
 }
